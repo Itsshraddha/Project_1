@@ -1,2 +1,2 @@
 # Project_1
-this is my first githup repo
+this is my first githup repositry
